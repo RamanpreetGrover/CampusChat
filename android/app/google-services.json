@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "653160583469",
+    "project_id": "campuschat-44493",
+    "storage_bucket": "campuschat-44493.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653160583469:android:8dd963a8c7873e617003a4",
+        "android_client_info": {
+          "package_name": "com.campuschat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzsXVzUQBKkcYm1lNmB1FZ0DECRWVkRjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
